@@ -245,9 +245,7 @@ h1, h2, h3, h4, h5, h6 {
 .sticky-nav {
     background: rgba(26, 29, 46, 0.8);
     backdrop-filter: blur(20px);
-    position: sticky;
     top: 106px;
-    z-index: 999;
     padding: 1rem 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
